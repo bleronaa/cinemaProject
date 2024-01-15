@@ -1,0 +1,29 @@
+#root{
+  background-color: #0f172a;
+}
+.my-slider{
+  background-color: #0f172a;
+}
+
+.slider-image {
+  width: 100vw; 
+  height: 90vh; 
+  object-fit: cover; 
+}
+ .content{
+  position: absolute;
+  top:0
+}
+.content .h2text{
+  margin-top: 190px;
+  font-size: 80px;
+  font-weight: 500;
+  color:#a50707;
+  margin-left:50px;
+}
+.content .price{
+  color:#a50707;
+  font-weight: 150;
+  font-size: 35px;
+  margin-left:50px;
+}
