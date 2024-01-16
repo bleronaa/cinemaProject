@@ -1,0 +1,251 @@
+
+ *{
+  margin: 0;
+  box-sizing: border-box;
+}
+.h-header {
+   height: 560px;
+  }
+  
+.bg-main {
+   background-color: #080A1A;
+}
+  /* Movies css */
+.search-btn{
+   margin-top: 2rem;
+   display: flex;
+   justify-content: center;
+ }
+.inputText{
+   outline: none;
+   border: 1px solid black;
+   border-radius:2rem 0 0 2rem ;
+   padding: 0.3rem 1rem;
+   font-size: 1rem;
+ }
+.inputText::placeholder{
+   color: black;
+}
+
+.search-btn button{
+   padding:0.2rem 0.5rem;
+   font-size:1rem;
+   outline: none;
+   border-radius:0rem 2rem 2rem 0 ;
+}
+.container{
+  background-color:#0f172a;
+}
+.list{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  padding:30px;
+  justify-content: space-evenly;
+  gap: 20px;
+}
+.items{
+   width:280px;
+   height:310px;
+   padding: 10px;
+   margin-bottom: 10px;
+}
+
+.listItem:hover{
+   cursor: pointer;
+   border-left: 5px solid #e50813;
+   box-shadow: 0px 0px 10px #e50813;
+   height:438px;
+}
+
+.text {
+  color:#fff;
+    padding-left: 10px;
+ }
+ .listItem:hover .text{
+  transform: translateY(30px);
+  opacity: 1;
+ }
+
+ .buyButton {
+   margin-top: 15px;
+   margin-left: 5px;
+   margin-bottom: 10px;
+   padding: 12px;
+   font-size: 10px;
+   color:#fff;
+   cursor: pointer;
+   background-color: #e50813;
+   border-radius: 10px;
+ }
+ .clicked{
+  background-color: green;
+   }
+ /* Signin css */
+
+ .wrapper{
+   display: flex; 
+   justify-content: center;
+  width:100%;
+  height: 100vh;
+
+}
+.form{
+  height:500px;
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+  border-radius: 10px;
+  border:2px solid #0ef;
+  box-shadow: 0 0 25px #0ef;
+
+}
+ h1{
+  margin-top: 25px;
+  font-size: 36px;
+  text-align: center;
+  color:#fff;
+}
+.wrapper .input-box{
+  position: relative;
+  width:420px;
+  height:50px;
+  margin:10 ;
+  background: transparent;
+  margin:30px 0;
+  border-radius: 40px;
+ 
+}
+
+.input-box input{
+  width:100%;
+  height:100%;
+  background: transparent;
+  border:none;
+  outline:none;
+  border:2px solid rgba(255,255,255, .2);
+  border-radius: 40px;
+  color:#fff;
+  padding:20px 45px 20px 20px;
+}
+
+.input-box input ::placeholder{
+  color:#fff;
+}
+
+.input-box .icon{
+  position: absolute;
+  right:20px;
+  top:50%;
+  transform: translateY(-50%);
+  font-size: 16px;
+  color:#fff;
+}
+
+.wrapper .remember{
+  display: flex;
+  justify-content: space-between;
+  font-size: 15px;
+  margin:15px;
+}
+.remember label input{
+  accent-color: #fff;
+  margin-right: 4px;
+}
+.remember label {
+  color:#fff;
+}
+.remember a{
+  color:#fff;
+  text-decoration: none;
+}
+.remember a:hover{
+  text-decoration: underline;
+  color:#0ef
+}
+.form button{
+  width:98%;
+  height:45px;
+  margin-left: 5px;
+  border-radius: 50px;
+  border: none;
+  outline:none;
+  cursor: pointer;
+  font-size: 15px;
+  color:#111;
+  margin-top: 30px;
+}
+
+.form .register{
+  text-align: center;
+  margin-top: 20px;
+  color:#fff;
+}
+.register a{
+  color:#fff;
+  text-decoration: none;
+}
+.register a:hover{
+  color:#0ef;
+  text-decoration:underline;
+}
+.buyButton.selectedButton {
+  /* Styles for the selected button */
+  background-color: #2ecc71; /* Green color */
+  /* Add other styles as needed */
+}
+  @media (max-width: 480px) {
+  .form{
+   width: 350px;
+    margin-left: 30px;
+    margin-top: 100px;
+  }
+  .wrapper{
+    width:400px;
+  }
+
+  .input-box input{
+    width:340px;
+    margin-left: 38px;
+  }
+  .remember label{
+    margin-left: 38px;
+  }
+  .remember a{
+    margin-right: 35px;
+  }
+  .form button{
+    width:316px;
+    margin-left: 50px;
+  }
+  .input-box .icon{
+    margin-right: 35px;
+  }
+  
+ }  
+ 
+
+ @media (max-width: 480px){
+  .wrapper{
+    display: flex;
+    justify-content: center;
+  }
+ }
+ @media (max-width: 390px){
+  .wrapper{
+    display: flex;
+    justify-content: center;
+  }
+ }
+ @media (max-width: 480px){
+  .wrapper{
+    display: flex;
+    justify-content: center;
+  }
+ }
+ @media (max-width: 390px){
+  .wrapper{
+    display: flex;
+    justify-content: center;
+  }
+ }

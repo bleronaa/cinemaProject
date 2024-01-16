@@ -1,0 +1,181 @@
+{
+
+    "homeData": [
+        {
+            "id": 1,
+            "name": "UltraAVX",
+            "description": "UltraAVX është formati premium më i zakonshëm, me ndenjëse të rezervuara, një ekran më të madh dhe sedilje më të rehatshme me hapësirë të zgjatur për këmbët.",
+            "price2D": "$3.00",
+            "url": "https://mediafiles.cineplex.com/Experiences/ultra-avx/UltraAVX_Billboard_Tablet.jpg " 
+        },
+         {
+            "id": 2,
+            "name": "D-BOX",
+            "description": "Sediljet D-BOX janë një bllok prej 20-30 vendesh të specializuara në sediljet e rregullta, D-BOX dridhen dhe lëvizin së bashku me ngjarjet në ekran, duke i shtuar një dimension shtesë filmit.",
+            "price2D": "$5.00",
+            "price3D": "$7.50",
+            "url": "https://f.hubspotusercontent20.net/hubfs/8861376/Imported_Blog_Media/d-box_news_theatrical_cineplex-100th-locations-1-1024x576-1.jpg"
+        }, 
+        {
+            "id": 3,
+            "name": "IMAX",
+            "description": "I përshkruar nga shumë njerëz si përvoja më e mirë vizuale, IMAX përmban një ekran masiv me audio të përmirësuar, por vetëm nëse jeni në një teatër të vërtetë IMAX.",
+            "price": "$5.50",
+            "url": "https://i.gadgets360cdn.com/large/imax_pvr_inox_inside_1691480395359.jpg"
+        },
+        {
+            "id": 4,
+            "name": "VIP",
+            "description": "Teatrot VIP kanë vetëm rreth 30 persona dhe kanë një shërbim ngrënieje në sedilje (përfshirë alkoolin),jane te disponueshme per 19+ vjeq.",
+            "price": "$5.00",
+            "url": "https://mma.prnewswire.com/media/1687628/Cineplex_Cineplex_Celebrates_its_25th_VIP_Cinemas_Location_with.jpg"
+        },
+        {
+            "id":5,
+            "name":"4DX",
+            "description":"Teatrot 4DX kanë sedilje me lëvizje, por me një truk të ri -- efektet mjedisore. Këto kinema të specializuara përfshijnë avionë që spërkasin mjegull, erë dhe aroma për të përmirësuar përvojën tuaj të filmit. Është një përvojë e shtrenjtë dhe taktika e marketingut 'spërkas ujë në fytyrë' është interesante",
+            "price":"$6.00",
+            "url":"https://images.dailyhive.com/20190815090713/4DX-Auditorium-11.jpg"
+        }
+    ],
+    "moviesData":[
+        {
+            "id":1,
+            "genre":"Shqiptar",
+            "name":"5 here jo",
+            "description":"Në televizionin më të madh në vend, Jora (Bora) është në konkurrencë me Klarën, një tjetër producente televizive dhe të dyja janë të gatshme të bëjnë gjithçka për të fituar projektin, qoftë edhe me një goditje nën brez.Jora dhe stafi i saj mendojnë se një armë e fortë mund të jetë sjellja në Shqipëri e Gjergjit (Donaldi), një regjisor shqiptar i cili prej vitesh jeton dhe punon me sukses ne Vienë.",
+            "url":"https://m.media-amazon.com/images/M/MV5BZmI4OTZjNDgtODkzYi00NDBlLTlhOWEtYTFhYTgwODU0OTAyXkEyXkFqcGdeQXVyOTc5NTAxMTU@._V1_QL75_UY281_CR21,0,190,281_.jpg",
+            "price":"$3.00",
+            "duration":"98Min"
+        },
+        {
+            "id":2,
+            "genre":"Shqiptar",
+            "name":"Ne kuader te dashurise",
+            "description":"Historia e një çifti të martuar prej 10 vitesh që vendosin t'i japin fund lidhjes. Vendimi do t'i bëjë ata të njohin kufijtë e njëri-tjetrit në situata plot humor dhe dashuri. Sepse kur dashuria është ende aty, asgjë nuk është e pamundur.",
+            "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQigxLDr_I93gjKGFrPd9ZLz0DBcbDrohjDuFqjoB1Y3SCsnkur8iIoS-2M9_6j7Yci_Do&usqp=CAU",
+            "price":"$3.00",
+            "duration":"95Min"
+        },
+        {
+            "id":3,
+            "genre":"Shqiptar",
+            "name":"Sofia",
+            "description":"Një vajzë e re serbe viziton Shqipërinë në kërkim të rrënjëve të një historie të vjetër për gjyshin e saj gjatë Luftës së 1941. Ajo bie në dashuri me një djalë shqiptar, duke filluar një marrëdhënie 'të pamundur' midis dy kombeve të ndara nga lufta.",
+            "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBJyrkJb_47SFof3qaUA9iq7GM9FGliTVf49CtM9sCY9Sw9NPLY-4WFshsbqZDOyN0TkQ&usqp=CAU",
+            "price":"$3.00",
+            "duration":"95Min"
+       },
+       {
+            "id":4,
+            "genre":"Action",
+            "name":"The Maze Runner",
+            "description":"Kur Tomas zgjohet, ai e gjen veten në kurth në një labirint gjigand së bashku me një grup të tjerë djemsh.  Pa asnjë memorie ai shikon në ëndërrat e tij pjesë nga e vërteta dhe shumë shpejt mbledh copëzat duke zbuluar qëllimin dhe rolin e tij  të vërtetë në labirint si dhe rrugën për të shpëtuar nga ky mankth qe e ndjek nga pas",
+            "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ12g3X9G23MF4-Rf7hiRjxtQttSEwvqvf5pdu-PDKO3PAKfNWktznv93ubimBlJWMpzEc&usqp=CAU",
+            "price":"$3.00",
+            "duration":"141Min"
+       },
+       {
+        "id":5,
+        "genre":"Action",
+        "name":"Divergent",
+        "description":"Në një botë të ndarë nga Fraksionet dhe të bazuar në virtyte, Trisi mëson se është 'E Ndryshme', dhe s'do të përshtatet me të. Kur ajo zbulon një komplot për të shkatërruar 'Të Ndryshmit', Trisi dhe misteriozi Katër duhet të gjejnë se çfarë i bën 'Të Ndryshmit' të rrezikshëm para se të jetë tepër vonë.",
+        "url":"https://infinityreads03.files.wordpress.com/2014/04/divergent-movie-poster-wallpaper-1920x1200.jpg",
+        "price":"$3.00",
+        "duration":"139Min"
+       },
+       {
+        "id":6,
+        "genre":"Thriller",
+        "name":"Bird Box",
+        "description":"Një grua dhe dy fëmijë ndërmarrin një udhëtim të rrezikshëm dhe duhet t'i bëjnë ballë çdo gjëje me sy të mbyllur.",
+        "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQYluEgxK3m8w2zq0hOVyCsHSgi78ft10V8MNoLZvb_qhYcsvgiuMOANQXx51Wq8Pu_Ro&usqp=CAU",
+        "price":"$3.00",
+        "duration":"124Min"
+       },
+       {
+        "id":7,
+        "genre":"Thriller",
+        "name":"A quiet place",
+        "description":" Pas ngjarjeve të frikshme në shtëpi, familja Abot duhet të largohet nga streha e tyre. Të detyruar të dalin në botën e jashtme, ata kuptojnë se krijesat që ndjekin zhurmat nuk janë rreziku i vetëm.",
+        "url":"https://i.ebayimg.com/images/g/A8IAAOSwqu1ayqy4/s-l1600.jpg",
+        "price":"$3.00",
+        "duration":"97Min"
+       },
+       {
+        "id":8,
+        "genre":"Romance",
+        "name":"Love at first sight",
+        "description":" Dy të rinj njihen në një fluturim për Londër dhe ndahen nga fati. Por rrugët e dashurisë i japin një mundësi tjetër.",
+        "url":"https://m.media-amazon.com/images/M/MV5BNDIzMzQ1ZTUtZjhkYS00ZTYzLTkxZTgtYWZlNzhhMWM0NTk5XkEyXkFqcGdeQXVyMTUyMzg5NzM2._V1_.jpg",
+        "price":"$3.00",
+        "duration":"90Min"
+       },
+       {
+        "id":9,
+        "genre":"Romance",
+        "name":"Purple Hearts",
+        "description":"Pavarësisht nga dallimet e tyre të shumta, Cassie, një këngëtare-kantautore në vështirësi, dhe Luke, një marins i trazuar, bien dakord të martohen vetëm për përfitime ushtarake. Por kur ndodh tragjedia, kufiri midis reales dhe pretendimit fillon të mjegullohet.",
+        "url":"https://m.media-amazon.com/images/M/MV5BNzI4ZTAwNzEtNTk5YS00ZWJmLWI1ODMtOTU4MTM5MzQ4OWM0XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_.jpg",
+        "price":"$3.00",
+        "duration":"122Min"
+       },
+       {
+        "id":10,
+        "genre":"Romance",
+        "name":"Midnight Sun ",
+        "description":"Një vajzë 17-vjeçare vuan nga një sëmundje që e pengon të dalë jashtë në dritën e diellit. Por njohja me Çarlin, djaloshin simpatik, do t'i ndryshojë rrënjësisht jetën.",
+        "url":"https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p13401697_v_h9_aa.jpg",
+        "price":"$3.00",
+        "duration":"91Min"
+       },
+       {
+        "id":11,
+        "genre":"Drame",
+        "name":"Everything, everything",
+        "description":"Një adoleshente e cila e ka kaluar gjithë jetën e saj e mbyllur në shtëpi, bie në dashuri me fqinjin e saj të ri.",
+        "url":"https://cdn2.penguin.com.au/covers/original/9780552576482.jpg",
+        "price":"$3.00",
+        "duration":"96Min"
+       },
+       {
+        "id":12,
+        "genre":"Drame",
+        "name":"Five Feet Apart",
+        "description":"Një çift adoleshentësh të sëmurë me fibrozë cistike takohen ne spital dhe bien në dashuri..",
+        "url":"https://m.media-amazon.com/images/M/MV5BOWUxMWQwM2EtYTk3My00NzQ2LWIyYTMtNjE5ZDhlZWRlNWFjXkEyXkFqcGdeQXVyNDI3NjU1NzQ@._V1_.jpg",
+        "price":"$3.00",
+        "duration":"116Min"
+       },
+       {
+        "id":13,
+        "genre":"Music",
+        "name":"Work It",
+        "description":"Kur aplikimi i Kuin Akermenit për fakultetin e ëndrrave të saj varet nga performanca në një garë kërcimi, ajo formon një grup dështak kërcimtarësh për të mundur grupin më të mirë të shkollës. Tani i duhet thjesht të mësojë të kërcejë.",
+        "url":"https://m.media-amazon.com/images/M/MV5BMDk5NjVlOGQtMGQ1Zi00MjZlLWI0NGUtYTllMWNiODRlYmUzXkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_.jpg",
+        "price":"$3.00",
+        "duration":"93Min"
+       },
+       {
+        "id":14,
+        "genre":"Music",
+        "name":"Feel The Beat",
+        "description":"Pasi shkatërroi karrierën e saj në Broduei, Ejprill, kërcimtarja ego-centrike, vendos të kthehet në qytetin e lindjes. Aty do të përfundojë duke u dhënë mësim një grupi vajzash të vogla e të pabindura. Por me çfarë kushti?",
+        "url":"https://m.media-amazon.com/images/M/MV5BMmIxZWMxYjktZWY1OS00MWVkLTljZDQtYWMxYTdmOWY0NzM4XkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_.jpg",
+        "price":"$3.00",
+        "duration":"107Min"
+       }
+
+    ],
+        "users": [
+        {
+            "id":1,
+            "username":"Blerona",
+            "surname":"Tmava",
+            "email":"blerona.tmava@umib.net",
+            "password":1234567
+        }
+    ]
+        
+} 
+
